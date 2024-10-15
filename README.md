@@ -26,7 +26,7 @@ This is a backend implementation of an Airbnb clone using Node.js, Express, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/airbnb-clone-backend.git
+   git clone https://github.com/Sujanbutani/Airbnb-clone-p-2.git
 
 2. Install dependencies:
 
