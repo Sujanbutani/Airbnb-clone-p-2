@@ -66,6 +66,6 @@ This is a backend implementation of an Airbnb clone using Node.js, Express, and 
 4. Delete :- localhost:5000/api/bookings/<booking_id>
 
 ## Environment Variables
-PORT: The port for the server to listen on.
-MONGODB_URI: Your MongoDB connection string.
-JWT_SECRET: Secret key for signing JWT tokens.
+- PORT: The port for the server to listen on.
+- MONGODB_URI: Your MongoDB connection string.
+- JWT_SECRET: Secret key for signing JWT tokens.
